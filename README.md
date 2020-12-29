@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Wojciech, I'm a software engineer specialized in developing web apps using Ruby on Rails.
+
 <!--
 **technoir9/technoir9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
